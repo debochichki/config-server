@@ -5,6 +5,7 @@ spring:
         git:
           uri: https://github.com/debochichki/config-server
           search-paths: global/config
+          default-label: master
 
 server:
   port:
